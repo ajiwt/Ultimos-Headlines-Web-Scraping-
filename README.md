@@ -2,9 +2,12 @@
 
 ##Proyecto de web scraping en python que encuentra la ultimas noticias (Headlines) de los sitios mas importantes.
 ####Herramientas Utilizadas:
-#####-Se utilizo python
-##-Libreria requests, BeautifulSoup4
-##-Html5
+#####-Todo es desarrollado en Python
+#####-Libreria requests, BeautifulSoup4
+#####-Html5
+#####-Bootstrap
+#####-Archivos
+#####-Flask
 
 
 ###Corriendo host
