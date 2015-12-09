@@ -7,3 +7,6 @@
 
 ###Pagina Principal
 ![Pagina Principal](https://github.com/ajiwt/Ultimos-Headlines-Web-Scraping-/blob/master/PaginaPrincipal.png)
+
+  ###Carousel
+  ![Pagina Principal](https://github.com/ajiwt/Ultimos-Headlines-Web-Scraping-/blob/master/Carousel.png)
