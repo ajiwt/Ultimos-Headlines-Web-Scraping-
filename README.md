@@ -10,3 +10,8 @@
 
 ###Carousel
 ![Pagina Principal](https://github.com/ajiwt/Ultimos-Headlines-Web-Scraping-/blob/master/Carousel.png)
+
+###Carousel
+![Pagina Principal](https://github.com/ajiwt/Ultimos-Headlines-Web-Scraping-/blob/master/Screenshot%20from%202015-12-09%2000:00:31.png)
+###Vista inferior
+![Pagina Principal](https://github.com/ajiwt/Ultimos-Headlines-Web-Scraping-/blob/master/VistaInferior.png)
