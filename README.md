@@ -1,4 +1,7 @@
 # Ultimos-Headlines-Web-Scraping-
+##Proyecto final
+
+####Zepeda Torres Alejandro Grupo: 17 Materia: PAMN 
 
 ##Proyecto de web scraping en python que encuentra la ultimas noticias (Headlines) de los sitios mas importantes.
 ####Herramientas Utilizadas:
